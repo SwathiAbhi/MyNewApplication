@@ -1,1 +1,2 @@
-# MyNewApplication
+# ion
+Sample Application Template
